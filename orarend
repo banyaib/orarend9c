@@ -99,8 +99,9 @@
             <td>70</td>
         </tr>
     </table>
-<nav>
-    <a href="kp+link.html">ősz</a>
-</nav>
+
+    <nav>
+        <a href="kp+link.html">Kép+link feladat</a>
+    </nav>
 </body>
 </html>
