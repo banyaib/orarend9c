@@ -99,6 +99,8 @@
             <td>70</td>
         </tr>
     </table>
-<nav>ősz</nav>
+<nav>
+    <a href="kp+link.html">ősz</a>
+</nav>
 </body>
 </html>
